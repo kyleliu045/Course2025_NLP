@@ -1,4 +1,4 @@
-# Replicating the BertSum Model.
+# Replicating the BertSum Model
 本專案旨在重現 [BertSum](https://github.com/nlpyang/BertSum) 模型，並解決在本地端環境下建立與執行的挑戰
 
 ## 📌 背景說明
